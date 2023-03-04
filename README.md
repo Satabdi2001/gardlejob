@@ -1,2 +1,2 @@
-# gardlejob
-repository to build with gradle
+# kurdishgram For Android Language Kurdish
+# Shaho Rangin
